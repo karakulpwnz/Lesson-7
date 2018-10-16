@@ -1,0 +1,9 @@
+D:\GeekBrains геймкодинг\Подготовительный курс\7 урок\Homework 7\Task 2\obj\Debug\Task_2.Form1.resources
+D:\GeekBrains геймкодинг\Подготовительный курс\7 урок\Homework 7\Task 2\obj\Debug\Task_2.Properties.Resources.resources
+D:\GeekBrains геймкодинг\Подготовительный курс\7 урок\Homework 7\Task 2\obj\Debug\Task 2.csproj.GenerateResource.cache
+D:\GeekBrains геймкодинг\Подготовительный курс\7 урок\Homework 7\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+D:\GeekBrains геймкодинг\Подготовительный курс\7 урок\Homework 7\Task 2\bin\Debug\Task 2.exe.config
+D:\GeekBrains геймкодинг\Подготовительный курс\7 урок\Homework 7\Task 2\bin\Debug\Task 2.exe
+D:\GeekBrains геймкодинг\Подготовительный курс\7 урок\Homework 7\Task 2\bin\Debug\Task 2.pdb
+D:\GeekBrains геймкодинг\Подготовительный курс\7 урок\Homework 7\Task 2\obj\Debug\Task 2.exe
+D:\GeekBrains геймкодинг\Подготовительный курс\7 урок\Homework 7\Task 2\obj\Debug\Task 2.pdb
